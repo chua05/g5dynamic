@@ -15,7 +15,7 @@ export default function SiteHeader() {
         <div className="mr-4 hidden md:flex">
           <Link href="/" className="mr-6 flex items-center space-x-2">
             <BarChart className="h-6 w-6 text-primary" />
-            <span className="hidden font-bold sm:inline-block">JSON Placeholder Dashboard</span>
+            <span className="hidden font-bold sm:inline-block">Dynamic Analytics Data</span>
           </Link>
           <nav className="flex items-center space-x-6 text-sm font-medium">
             <Link
@@ -25,7 +25,7 @@ export default function SiteHeader() {
                 pathname === "/" ? "text-foreground" : "text-foreground/60",
               )}
             >
-              Dashboard
+              Home
             </Link>
             <Link
               href="/users"

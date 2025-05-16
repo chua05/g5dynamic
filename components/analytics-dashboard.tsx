@@ -85,7 +85,7 @@ export default function AnalyticsDashboard() {
       <div className={`flex-1 ${isSidebarOpen ? "lg:ml-64" : "ml-0 lg:ml-64"}`}>
         <header className="sticky top-0 z-30 flex h-14 items-center gap-4 border-b bg-background px-4 sm:px-6">
           <div className="hidden lg:block">
-            <h1 className="text-lg font-semibold">Dashboard</h1>
+            <h1 className="text-lg font-semibold">Home</h1>
           </div>
           <div className="ml-auto flex items-center gap-4">
             <form className="relative hidden sm:block">

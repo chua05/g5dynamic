@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Dynamic Analytics Web",
-  description: "A dashboard for JSON Placeholder API data",
+  description: "A dashboard for Dynamic Analytics Data",
     generator: 'v0.dev'
 }
 

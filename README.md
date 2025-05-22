@@ -1,5 +1,6 @@
 Github Repository Link:
 •	https://github.com/chua05/g5dynamic.git
+
 Deployed Application Link (Vercel):
 •	g5dynamic-284vvykd3-chuas-projects-310db6fd.vercel.app
 
